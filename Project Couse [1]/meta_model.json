@@ -1,0 +1,44 @@
+{
+  "model": "Regresi Logistik",
+  "classes": [
+    "Diabetes",
+    "Hipertensi",
+    "Jantung",
+    "Normal"
+  ],
+  "features": [
+    "Umur",
+    "Tekanan_Darah",
+    "Kadar_Gula",
+    "Detak_Jantung",
+    "BMI",
+    "Jenis_Kelamin",
+    "Riwayat_Keluarga",
+    "Gaya_Hidup"
+  ],
+  "ranges": {
+    "Umur": [
+      21.0,
+      72.0
+    ],
+    "Tekanan_Darah": [
+      116.0,
+      185.0
+    ],
+    "Kadar_Gula": [
+      81.0,
+      165.0
+    ],
+    "Detak_Jantung": [
+      69.0,
+      99.0
+    ],
+    "BMI": [
+      20.0,
+      38.0
+    ]
+  },
+  "cv_accuracy": 0.98,
+  "cv_f1_macro": 0.98,
+  "n_train": 101
+}

@@ -1,0 +1,102 @@
+Umur,Tekanan_Darah,Kadar_Gula,Detak_Jantung,BMI,Jenis_Kelamin,Riwayat_Keluarga,Gaya_Hidup,Penyakit,Jenis_Kelamin_enc,Riwayat_Keluarga_enc,Gaya_Hidup_ord,Target_4kelas,Target_biner,Kelompok_Umur,Kategori_BMI,Kategori_TD,Kategori_Gula,PC1_Fisiologis
+25,120,85,72,22,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Normal,<130,<100,-3.233881511550758
+45,140,150,80,28,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.7698313914746824
+50,150,160,85,30,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas II,>=140,>=126,0.23125551550431017
+60,170,110,90,32,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,>=55,Obesitas II,>=140,100-125,1.6688074828241644
+55,165,100,88,31,Laki-laki,Tidak,Tidak_Sehat,Hipertensi,1,0,2,2,1,>=55,Obesitas II,>=140,100-125,1.1092643071177928
+65,180,130,95,34,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.669894389803157
+70,175,140,98,35,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.0464697213574348
+30,125,90,75,24,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.4936507413415834
+35,130,95,78,25,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Obesitas I,130-139,<100,-1.8663586797577036
+40,135,100,80,27,Laki-laki,Tidak,Sedang,Normal,1,0,1,0,0,40-54,Obesitas I,130-139,100-125,-1.1938767954260374
+42,145,155,82,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.5074855442663254
+48,150,165,84,30,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas II,>=140,>=126,0.0892072975022981
+52,160,105,86,31,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.7369591721612192
+58,170,115,89,33,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.6396979734474468
+62,178,135,92,34,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.305055387977956
+68,182,145,96,36,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.1251130371239304
+28,122,88,73,23,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Berisiko,<130,<100,-2.8916015728552793
+33,128,92,76,24,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.239237838268439
+38,132,98,79,26,Perempuan,Tidak,Sedang,Normal,0,0,1,0,0,<40,Obesitas I,130-139,<100,-1.5240787410622247
+44,148,158,83,29,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.29022230725543263
+47,152,162,85,30,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas II,>=140,>=126,0.16994986332347514
+53,162,108,87,32,Laki-laki,Ya,Sedang,Hipertensi,1,1,1,2,1,40-54,Obesitas II,>=140,100-125,1.0049397787321943
+57,168,118,90,33,Perempuan,Ya,Tidak_Sehat,Hipertensi,0,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.6201538472567827
+63,176,138,94,35,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.5404981884145985
+69,180,148,97,36,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.1798682430577703
+26,121,87,72,22,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Normal,<130,<100,-3.171660172485546
+31,126,91,75,24,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Berisiko,<130,<100,-2.4314294022763714
+36,131,96,78,25,Laki-laki,Tidak,Sedang,Normal,1,0,1,0,0,<40,Obesitas I,130-139,<100,-1.8041373406924914
+43,147,157,82,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.4201925321981531
+49,151,161,84,30,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas II,>=140,>=126,0.1514286365675102
+54,163,107,86,31,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.8864735232946037
+59,169,117,89,33,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.6517759665067384
+64,177,137,93,35,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.5349706416023023
+71,183,149,98,37,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.5100701886939576
+27,123,89,73,23,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Berisiko,<130,<100,-2.903679565914571
+32,127,93,76,24,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.3014591773336512
+37,133,97,79,26,Perempuan,Tidak,Sedang,Normal,0,0,1,0,0,<40,Obesitas I,130-139,<100,-1.5361567341215163
+41,146,156,81,28,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.7002511318284198
+46,149,159,83,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.19085130212796866
+51,161,106,85,31,Laki-laki,Ya,Sedang,Hipertensi,1,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.6571322932244192
+56,167,116,88,32,Perempuan,Ya,Tidak_Sehat,Hipertensi,0,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.3094960278112595
+61,174,136,91,34,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.099870144026355
+67,179,146,95,36,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.944999466175289
+29,124,90,74,23,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.7365596749095986
+34,129,94,77,25,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Obesitas I,<130,<100,-1.996328904700424
+39,134,99,80,26,Laki-laki,Tidak,Sedang,Normal,1,0,1,0,0,<40,Obesitas I,130-139,<100,-1.3690368431165438
+45,150,160,83,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.20292929518726024
+50,153,164,85,30,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas II,>=140,>=126,0.30647053451319095
+55,164,109,87,32,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,>=55,Obesitas II,>=140,100-125,1.1293824568626185
+60,170,119,90,33,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.7817461914494588
+66,178,139,94,35,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.702090532607275
+72,185,150,99,38,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.7780507952649325
+24,119,84,71,21,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Normal,<130,<100,-3.4767904451187728
+29,124,89,74,23,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.7365596749095986
+34,130,93,77,25,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Obesitas I,130-139,<100,-1.971257231697464
+42,145,155,82,28,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.6204242528916198
+48,150,160,84,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.023731411122996312
+53,160,105,86,31,Laki-laki,Ya,Sedang,Hipertensi,1,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.7741088382234711
+57,168,115,89,32,Perempuan,Ya,Tidak_Sehat,Hipertensi,0,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.4394662527539799
+63,175,135,92,34,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.266990035031327
+69,180,145,96,36,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,3.1121193571802617
+23,118,83,70,21,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Normal,<130,<100,-3.6067606700614934
+28,123,88,73,23,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Berisiko,<130,<100,-2.866529899852319
+33,129,92,76,24,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.2141661652654787
+41,144,154,81,28,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.7503944778343403
+47,149,159,83,29,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.1537016360657168
+52,159,104,85,31,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.6441386132807506
+58,167,114,88,32,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.3837953599357633
+62,174,134,91,34,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.137019810088607
+68,179,144,95,36,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.982149132237541
+22,117,82,70,20,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Normal,<130,<100,-3.781920717752
+27,122,87,72,22,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Normal,<130,<100,-3.1094388334203336
+32,128,91,75,24,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Berisiko,<130,<100,-2.3441363902081993
+40,143,153,80,28,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.8803647027770609
+46,148,158,82,29,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.2836718610084373
+51,158,103,84,31,Laki-laki,Ya,Sedang,Hipertensi,1,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.5141683883380301
+56,166,113,87,32,Perempuan,Ya,Tidak_Sehat,Hipertensi,0,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.216675468930791
+61,173,133,90,34,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.007049585145886
+67,178,143,94,36,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.8521789072948205
+21,116,81,69,20,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Normal,<130,<100,-3.91189094269472
+26,121,86,72,22,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Normal,<130,<100,-3.171660172485546
+31,127,90,75,24,Laki-laki,Tidak,Sehat,Normal,1,0,0,0,0,<40,Berisiko,<130,<100,-2.4063577292734113
+39,142,152,79,27,Perempuan,Ya,Tidak_Sehat,Diabetes,0,1,2,1,1,<40,Obesitas I,>=140,>=126,-1.123273636345076
+45,147,157,81,28,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.5265807945764522
+50,157,102,83,30,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.27125945477001523
+55,165,112,86,31,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,0.9737665353627761
+60,172,132,89,33,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,1.764140651577871
+66,177,142,93,35,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.609269973726806
+44,141,134,81,27,Laki-laki,Ya,Sedang,Diabetes,1,1,1,1,1,40-54,Obesitas I,>=140,>=126,-0.82709920728176
+46,149,122,83,28,Perempuan,Tidak,Sedang,Hipertensi,0,0,1,2,1,40-54,Obesitas I,>=140,100-125,-0.3037900107532631
+53,158,129,86,30,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,40-54,Obesitas II,>=140,>=126,0.6110267835922562
+39,136,118,78,26,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Obesitas I,130-139,100-125,-1.4543912688656402
+41,143,136,80,27,Laki-laki,Ya,Sedang,Diabetes,1,1,1,1,1,40-54,Obesitas I,>=140,>=126,-0.9561537453401034
+52,160,120,85,30,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,40-54,Obesitas II,>=140,100-125,0.5562715776584164
+60,171,137,90,33,Laki-laki,Ya,Tidak_Sehat,Jantung,1,1,2,3,1,>=55,Obesitas II,>=140,>=126,1.806817864452419
+37,133,112,77,25,Perempuan,Tidak,Sehat,Normal,0,0,0,0,0,<40,Obesitas I,130-139,100-125,-1.7845932145018275
+48,147,139,83,29,Laki-laki,Ya,Tidak_Sehat,Diabetes,1,1,2,1,1,40-54,Obesitas I,>=140,>=126,-0.16669531600938547
+55,162,124,87,31,Perempuan,Ya,Sedang,Hipertensi,0,1,1,2,1,>=55,Obesitas II,>=140,100-125,0.9663004022314037
+42,144,137,81,28,Perempuan,Ya,Sedang,Diabetes,0,1,1,1,1,40-54,Obesitas I,>=140,>=126,-0.7132448117720884
+57,166,121,88,32,Laki-laki,Ya,Tidak_Sehat,Hipertensi,1,1,2,2,1,>=55,Obesitas II,>=140,100-125,1.321574020870551
+63,173,139,91,34,Perempuan,Ya,Tidak_Sehat,Jantung,0,1,2,3,1,>=55,Obesitas II,>=140,>=126,2.1490978031478982
